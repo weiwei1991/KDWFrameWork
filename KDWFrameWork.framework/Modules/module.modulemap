@@ -1,0 +1,6 @@
+framework module KDWFrameWork {
+  umbrella header "KDWFrameWork.h"
+
+  export *
+  module * { export * }
+}
